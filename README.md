@@ -5,19 +5,11 @@
 
 ## Overview
 
-
-
 ### Getting Started
-
-
 
 ### Architecture
 
-
-
 ### Changelog
-
-
 
 ### Credit and Collaberation
 
